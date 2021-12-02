@@ -113,3 +113,9 @@ Given an array consisting from the arrays of numbers (like a two-dimensional arr
 row and print them as an array.
 
 [sumDigitArr.js](sumDigitArr.js)
+
+## Optional 1. Difference digits of number
+
+Enter a number. Find the difference between its biggest and smallest digits.
+
+[Optional_1.js](Optional_1.js)
