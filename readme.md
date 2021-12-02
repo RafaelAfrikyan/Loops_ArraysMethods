@@ -106,3 +106,10 @@ new array where each element from that array is placed under the index of its va
 smallest value and end with the biggest one. If there are missing values, put in its places undefined.
 
 [createArr.js](createArr.js)
+
+## 19. Sum digit in sub array in other array
+
+Given an array consisting from the arrays of numbers (like a two-dimensional array). Find sum of each
+row and print them as an array.
+
+[sumDigitArr.js](sumDigitArr.js)
