@@ -84,3 +84,10 @@ Given an array of strings. Find the strings with maximum and minimum lengths in 
 // of their lengths.
 
 [lengthOfVal.js](lengthOfVal.js)
+
+# 16. Find index in array by val of digit
+
+Given an array of numbers and a number. Find the index of a first element which is equal to that
+number. If there is not such a number, that find the index of the first element which is the closest to it.
+
+[findIndByVal.js](findIndByVal.js)
