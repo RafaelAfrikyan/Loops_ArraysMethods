@@ -58,8 +58,23 @@ sum, print the quotient, otherwise print the remainder.
 
 ## 12. Replace word to sentence
 
+Given a sentence with missing words and an array of words. Replace all ‘_ʼ in a sentence with the
+words from the array.
+
 [replaceWord.js](replaceWord.js)
 
 ## 13. Filter array of numbers from other symbols
 
+Given mixed array of numbers, strings, booleans, nulls and undefined. Filter array and get all the
+numbers in a separate array. Arrange them such as from the beginning are the odds and from the
+ending the evens.
+
 [filterArray.js](filterArray.js)
+
+## 14. Count strings and number in array
+
+Given an array of strings and numbers. Print the number of integers and the number of strings in the
+array.
+
+[countStrAndNum.js](countStrAndNum.js)
+
