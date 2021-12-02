@@ -55,3 +55,7 @@ Insert a number. Calculate product and sum of the digits of the number. If produ
 sum, print the quotient, otherwise print the remainder.
 
 [productAndSum.js](productAndSum.js)
+
+## 12. Replace word to sentence
+
+[replaceWord.js](replaceWord.js)
