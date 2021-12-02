@@ -18,3 +18,9 @@ Given a positive integer. Bring the last digit of the number to the beginning. P
 the last digit of the inserted number is 0, number remains the same.
 
 [lastDigitToFront.js](lastDigitToFront.js)
+
+## 4 Check number to multiply digit
+
+Check if a number is a multiple of 3, 5 or 7 and output the appropriate message.
+
+[NumberMultiply.js](NumberMultiply.js)
