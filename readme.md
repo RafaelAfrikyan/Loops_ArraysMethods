@@ -85,9 +85,16 @@ Given an array of strings. Find the strings with maximum and minimum lengths in 
 
 [lengthOfVal.js](lengthOfVal.js)
 
-# 16. Find index in array by val of digit
+## 16. Find index in array by val of digit
 
 Given an array of numbers and a number. Find the index of a first element which is equal to that
 number. If there is not such a number, that find the index of the first element which is the closest to it.
 
 [findIndByVal.js](findIndByVal.js)
+
+## 17. Remove symbol from words in array
+
+Given a sentence as a string. Split it according to space and comma and create an array consisting of
+the words of the array. The last word should not contain the last . or ! .
+
+[rmSymb.js](rmSymb.js)
