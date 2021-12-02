@@ -78,3 +78,9 @@ array.
 
 [countStrAndNum.js](countStrAndNum.js)
 
+## 15. Count length of values from array
+
+Given an array of strings. Find the strings with maximum and minimum lengths in array. Print the sum
+// of their lengths.
+
+[lengthOfVal.js](lengthOfVal.js)
