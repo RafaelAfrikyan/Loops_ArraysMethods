@@ -42,3 +42,9 @@ Find the sign of product of three numbers without multiplication operator. Displ
 Insert a digit and a number. Check whether the digits contains in the number or not.
 
 [ContainOrNo.js](ContainOrNo.js)
+
+## Reverse first and last digits of number
+
+Insert a number. Print ‘yesʼ if the number is prime, ‘noʼ otherwise.
+
+[reversDigits.js](reversDigits.js)
