@@ -37,3 +37,8 @@ Find the sign of product of three numbers without multiplication operator. Displ
 
 [getSignWhtioutMultiply.js](getSignWhtioutMultiply.js)
 
+## Contain digit in number or not
+
+Insert a digit and a number. Check whether the digits contains in the number or not.
+
+[ContainOrNo.js](ContainOrNo.js)
