@@ -19,8 +19,14 @@ the last digit of the inserted number is 0, number remains the same.
 
 [lastDigitToFront.js](lastDigitToFront.js)
 
-## 4 Check number to multiply digit
+## 4. Check number to multiply digit
 
 Check if a number is a multiple of 3, 5 or 7 and output the appropriate message.
 
 [NumberMultiply.js](NumberMultiply.js)
+
+## 5. Sorting numbers
+
+Given three numbers. Sort them by the ascending order.
+
+[SortinNumbers.js](SortinNumber.js)
