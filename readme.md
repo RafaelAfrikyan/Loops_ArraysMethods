@@ -59,3 +59,7 @@ sum, print the quotient, otherwise print the remainder.
 ## 12. Replace word to sentence
 
 [replaceWord.js](replaceWord.js)
+
+## 13. Filter array of numbers from other symbols
+
+[filterArray.js](filterArray.js)
