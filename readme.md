@@ -37,14 +37,21 @@ Find the sign of product of three numbers without multiplication operator. Displ
 
 [getSignWhtioutMultiply.js](getSignWhtioutMultiply.js)
 
-## Contain digit in number or not
+## 7. Contain digit in number or not
 
 Insert a digit and a number. Check whether the digits contains in the number or not.
 
 [ContainOrNo.js](ContainOrNo.js)
 
-## Reverse first and last digits of number
+## 8. Reverse first and last digits of number
 
 Insert a number. Print ‘yesʼ if the number is prime, ‘noʼ otherwise.
 
 [reversDigits.js](reversDigits.js)
+
+## 11. Calculate product and sum of digits of number
+
+Insert a number. Calculate product and sum of the digits of the number. If product is divisible by the
+sum, print the quotient, otherwise print the remainder.
+
+[productAndSum.js](productAndSum.js)
