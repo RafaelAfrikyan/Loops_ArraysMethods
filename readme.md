@@ -58,7 +58,7 @@ sum, print the quotient, otherwise print the remainder.
 
 ## 12. Replace word to sentence
 
-Given a sentence with missing words and an array of words. Replace all ‘_ʼ in a sentence with the
+Given a sentence with missing words and an array of words. Replace all ‘\_ʼ in a sentence with the
 words from the array.
 
 [replaceWord.js](replaceWord.js)
@@ -114,16 +114,19 @@ row and print them as an array.
 
 [sumDigitArr.js](sumDigitArr.js)
 
-## Optional 1. Difference digits of number
+## 20. Optional 1. Difference digits of number
 
 Enter a number. Find the difference between its biggest and smallest digits.
 
 [Optional_1.js](Optional_1.js)
 
-## Optional 3. Push elements in the middle arr
+## 21. Optional 3. Push elements in the middle arr
 
 Takes two arrays and insert the second array in the middle of the first array. The first array always has
 two elements.
 
-[Optional_3.js](Optional_3.js
-)
+[Optional_3.js](Optional_3.js)
+
+## 22. Task from chapter
+
+[TaskFromChapter.js](TaskFromChapter.js)
