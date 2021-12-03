@@ -119,3 +119,11 @@ row and print them as an array.
 Enter a number. Find the difference between its biggest and smallest digits.
 
 [Optional_1.js](Optional_1.js)
+
+## Optional 3. Push elements in the middle arr
+
+Takes two arrays and insert the second array in the middle of the first array. The first array always has
+two elements.
+
+[Optional_3.js](Optional_3.js
+)
